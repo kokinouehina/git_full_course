@@ -1,1 +1,1 @@
-crossOriginIsolated.log("Hello Git");
+console.log("Hello Git");
